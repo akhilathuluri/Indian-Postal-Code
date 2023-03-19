@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(to right, #f1f2b5, #135058);
+}
+#input{
+    padding: 70px 0;
+    margin-top: 170px;
+    text-align: center;
+}
+#h1{
+    font-size: 50px;
+}
+#search {
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+    outline: none;
+    box-shadow: 0px 0px 5px grey;
+}
